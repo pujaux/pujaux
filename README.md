@@ -1,7 +1,15 @@
 <div align="center">
 
 <!-- CAPSULE HEADER — swap type= to: waving | rect | soft | egg | shark | slice | cylinder | rounded -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3d2e00,50:7a6000,100:FFEDA8&height=180&section=header&text=Puja%20Rani%20Bhuyan&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Open%20Source%20Contributor&descSize=16&descAlignY=65&animation=fadeIn)
+<div align="center">
+
+<a href="https://github.com/pujaux">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFEDA8&center=true&vCenter=true&width=600&height=80&lines=Puja+Rani+Bhuyan" alt="Typing name" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F5C842&center=true&vCenter=true&width=600&height=50&lines=AI+%2F+ML+Engineer;Open+Source+Contributor;Deep+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing roles" />
+
+</div>
 
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this GIF with your own — search "AI neural network gif"  -->
