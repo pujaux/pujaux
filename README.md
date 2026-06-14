@@ -180,7 +180,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 *"The best model is the one that ships."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=pujaux&color=FF8C42&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=pujaux&color=EE82EE&style=flat-square&label=Profile+Views)
 
 </div>
 
