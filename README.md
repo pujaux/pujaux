@@ -120,7 +120,7 @@ MLOps                     ██████░░░░░░░░  48%
 | 🏆 | Oracle AI Vector Search Certified |
 | 📜 | Microsoft AI Skills Challenge |
 | 📊 | Introduction to Data Science — Infosys Springboard |
-| 🌍 | AWS Cloud Foundations |
+
 
 ---
 
@@ -136,6 +136,22 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
+---
+##  Contribution Snake
+
+<div align="center">
+
+![Snake dark](https://github.com/pujaux/pujaux/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 🎲 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 ---
 
 ## 🧩 LeetCode Progress
