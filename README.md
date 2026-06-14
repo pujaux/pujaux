@@ -1,8 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0015,50:C71585,100:EE82EE&height=250&section=header&text=Puja%20Rani%20Bhuyan&fontSize=55&fontColor=EE82EE&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Open%20Source%20Contributor&descSize=18&descAlignY=75&descAlignX=50&fontAlign=50" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=42&pause=1000&color=C71585&center=true&vCenter=true&width=800&height=80&lines=Puja+Rani+Bhuyan+" alt="Typing name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&pause=1000&color=EE82EE&center=true&vCenter=true&width=800&height=50&lines=AI+%2F+ML+Engineer;Open+Source+Contributor;Deep+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing roles" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 <!-- ─────────────────────────────────────────────────────────────────── -->
