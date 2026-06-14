@@ -162,7 +162,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
 
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this second GIF — try "matrix rain gif" or             -->
