@@ -164,10 +164,8 @@ MLOps                     ██████░░░░░░░░  48%
 <!--     "neural network animation gif" or "data science aesthetic gif"  -->
 <!-- ─────────────────────────────────────────────────────────────────── -->
 
-<div align="center">
-  <img src="<img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/1f8da3b0-fef6-42dc-b48c-443babee8a0e" />
-E" width="500" alt="vibe gif" />
-</div>
+<img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/b85cf998-b4f4-4cc9-80f3-43e469876477" />
+
 
 ---
 
