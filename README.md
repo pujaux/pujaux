@@ -146,8 +146,7 @@ MLOps                     ██████░░░░░░░░  48%
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=120&section=footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 
 ## 🧩 LeetCode Progress
 
