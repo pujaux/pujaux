@@ -138,11 +138,7 @@ MLOps                     ██████░░░░░░░░  48%
 ---
 ##  Contribution Snake
 
-<div align="center">
-
-![Snake dark](https://github.com/pujaux/pujaux/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+![Snake](https://github.com/pujaux/pujaux/blob/output/github-contribution-grid-snake.svg)
 
 
 
