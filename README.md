@@ -145,7 +145,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
-## 🎲 Random Dev Quote
+
 
 <div align="center">
 
