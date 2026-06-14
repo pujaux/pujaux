@@ -183,4 +183,4 @@ MLOps                     ██████░░░░░░░░  48%
 </div>
 
 <!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF8C42&height=120&section=footer, width="100%)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF8C42&height=120&section=footer)
