@@ -165,7 +165,8 @@ MLOps                     ██████░░░░░░░░  48%
 <!-- ─────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="YOUR_SECOND_GIF_URL_HERE" width="500" alt="vibe gif" />
+  <img src="<img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/1f8da3b0-fef6-42dc-b48c-443babee8a0e" />
+E" width="500" alt="vibe gif" />
 </div>
 
 ---
