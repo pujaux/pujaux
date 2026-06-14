@@ -172,7 +172,7 @@ MLOps                     ██████░░░░░░░░  48%
 <img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/b85cf998-b4f4-4cc9-80f3-43e469876477" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF8C42&height=60&section=header" width="100%"/>
 
 <div align="center">
 
@@ -183,4 +183,4 @@ MLOps                     ██████░░░░░░░░  48%
 </div>
 
 <!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:7a6000&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF8C42&height=120&section=footer, width="100%)
