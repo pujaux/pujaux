@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=42&pause=1000&color=CCCCFF&center=true&vCenter=true&width=800&height=80&lines=Puja+Rani+Bhuyan
-" alt="Typing name" />
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=42&pause=1000&color=CCCCFF&center=true&vCenter=true&width=800&height=80&lines=Puja+Rani+Bhuyan+%F0%9F%8C%9F" alt="Typing name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&pause=1000&color=E29CD2&center=true&vCenter=true&width=800&height=50&lines=AI+%2F+ML+Engineer;Open+Source+Contributor;Deep+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing roles" />
 </div>
