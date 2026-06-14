@@ -10,10 +10,8 @@
 <!--     or "lofi coding aesthetic gif" on Giphy / Tenor                  -->
 <!-- ─────────────────────────────────────────────────────────────────── -->
 
-<div align="center">
-  <img src="<img width="750" height="422" alt="download" src="https://github.com/user-attachments/assets/0a64c4e3-245f-44b5-aa51-3168e900ae4c" />
-" width="600" alt="coding gif" />
-</div>
+<img width="750" height="422" alt="download" src="https://github.com/user-attachments/assets/088c6f7f-f1d9-44db-aa76-c52a11d639a7" />
+
 
 <br/>
 
