@@ -176,11 +176,16 @@ MLOps                     ██████░░░░░░░░  48%
 
 <div align="center">
 
-*"The best model is the one that ships."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=pujaux&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
 <!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF8C42&height=120&section=footer)
+<div align="center">
+
+*"The best model is the one that ships."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=pujaux&color=FF8C42&style=flat-square&label=Profile+Views)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:FFB347,100:FFEDA8&height=120&section=footer" />
