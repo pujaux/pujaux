@@ -1,15 +1,12 @@
 <div align="center">
 
-<!-- CAPSULE HEADER — swap type= to: waving | rect | soft | egg | shark | slice | cylinder | rounded -->
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&height=80&lines=Puja+Rani+Bhuyan" alt="Typing name" />
 
-<a href="https://github.com/pujaux">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFB347&center=true&vCenter=true&width=600&height=50&lines=AI+%2F+ML+Engineer;Open+Source+Contributor;Deep+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing roles" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=60&section=header" width="100%"/>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=60&section=header" width="100%"/>
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this GIF with your own — search "AI neural network gif"  -->
 <!--     or "lofi coding aesthetic gif" on Giphy / Tenor                  -->
@@ -22,7 +19,7 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## `>> whoami <<`
 
@@ -37,7 +34,7 @@ puja = {
 }
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## ⚡ Tech Arsenal
 
@@ -57,7 +54,7 @@ puja = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## 🔬 What I'm Building
 
@@ -103,7 +100,7 @@ Real-time dashboard ingesting **IoT smart-home sensor streams** on AWS. ML-based
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## 📈 Currently Learning
 
@@ -116,7 +113,7 @@ Reinforcement Learning    █████░░░░░░░░░  40%
 MLOps                     ██████░░░░░░░░  48%
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## 🏅 Milestones
 
@@ -128,7 +125,7 @@ MLOps                     ██████░░░░░░░░  48%
 | 📊 | Introduction to Data Science — Infosys Springboard |
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -142,7 +139,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 ##  Contribution Snake
 
 ![Snake](https://github.com/pujaux/pujaux/blob/output/github-contribution-grid-snake.svg)
@@ -154,7 +151,7 @@ MLOps                     ██████░░░░░░░░  48%
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 ## 🧩 LeetCode Progress
 
@@ -164,7 +161,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this second GIF — try "matrix rain gif" or             -->
@@ -174,7 +171,7 @@ MLOps                     ██████░░░░░░░░  48%
 <img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/b85cf998-b4f4-4cc9-80f3-43e469876477" />
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=40&section=header" width="100%"/>
 
 <div align="center">
 
