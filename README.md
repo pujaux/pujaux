@@ -136,6 +136,7 @@ MLOps                     ██████░░░░░░░░  48%
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
+
 ##  Contribution Snake
 
 ![Snake](https://github.com/pujaux/pujaux/blob/output/github-contribution-grid-snake.svg)
