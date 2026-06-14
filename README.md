@@ -4,11 +4,10 @@
 <div align="center">
 
 <a href="https://github.com/pujaux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&height=80&lines=Puja+Rani+Bhuyan" alt="Typing name" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFB347&center=true&vCenter=true&width=600&height=50&lines=AI+%2F+ML+Engineer;Open+Source+Contributor;Deep+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing roles" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C42,FFB347&height=60&section=header" width="100%"/>
 </div>
 
 <!-- ─────────────────────────────────────────────────────────────────── -->
