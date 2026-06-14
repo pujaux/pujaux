@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CAPSULE HEADER — swap type= to: waving | rect | soft | egg | shark | slice | cylinder | rounded -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Puja%20Rani%20Bhuyan&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Open%20Source%20Contributor&descSize=16&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3d2e00,50:7a6000,100:FFEDA8&height=180&section=header&text=Puja%20Rani%20Bhuyan&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Open%20Source%20Contributor&descSize=16&descAlignY=65&animation=fadeIn)
 
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this GIF with your own — search "AI neural network gif"  -->
