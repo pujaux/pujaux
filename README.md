@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=120&section=header" />
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=42&pause=1000&color=C71585&center=true&vCenter=true&width=800&height=80&lines=Puja+Rani+Bhuyan+" alt="Typing name" />
 
@@ -147,7 +147,7 @@ MLOps                     ██████░░░░░░░░  48%
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=120&section=footer" />
 
 
 ## 🧩 LeetCode Progress
