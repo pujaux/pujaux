@@ -1,9 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=700&size=42&pause=1000&color=C71585&center=true&vCenter=true&width=800&height=80&lines=Puja+Rani+Bhuyan+" alt="Typing name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&pause=1000&color=EE82EE&center=true&vCenter=true&width=800&height=50&lines=AI+%2F+ML+Engineer;Open+Source+Contributor;Deep+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing roles" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this GIF with your own — search "AI neural network gif"  -->
 <!--     or "lofi coding aesthetic gif" on Giphy / Tenor                  -->
@@ -16,7 +17,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 
 ## `>> whoami <<`
 
@@ -31,7 +32,7 @@ puja = {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 ## ⚡ Tech Arsenal
 
 <div align="center">
@@ -50,7 +51,7 @@ puja = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 
 ## 🔬 What I'm Building
 
@@ -96,7 +97,7 @@ Real-time dashboard ingesting **IoT smart-home sensor streams** on AWS. ML-based
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 
 ## 📈 Currently Learning
 
@@ -109,8 +110,7 @@ Reinforcement Learning    █████░░░░░░░░░  40%
 MLOps                     ██████░░░░░░░░  48%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 ## 🏅 Milestones
 
 | | Achievement |
@@ -121,7 +121,7 @@ MLOps                     ██████░░░░░░░░  48%
 | 📊 | Introduction to Data Science — Infosys Springboard |
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 
 ## 📊 GitHub Analytics
 
@@ -135,8 +135,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 ##  Contribution Snake
 
 ![Snake](https://github.com/pujaux/pujaux/blob/output/github-contribution-grid-snake.svg)
@@ -159,8 +158,7 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FFB347&height=60&section=header" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <!--  🔁 REPLACE this second GIF — try "matrix rain gif" or             -->
 <!--     "neural network animation gif" or "data science aesthetic gif"  -->
@@ -169,7 +167,7 @@ MLOps                     ██████░░░░░░░░  48%
 <img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/b85cf998-b4f4-4cc9-80f3-43e469876477" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF8C42&height=60&section=header" width="100%"/>
+<<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
 
 <div align="center">
 
@@ -185,4 +183,4 @@ MLOps                     ██████░░░░░░░░  48%
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:FFB347,100:FFEDA8&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=120&section=footer" />
