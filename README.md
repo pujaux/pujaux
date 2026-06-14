@@ -11,7 +11,8 @@
 <!-- ─────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="YOUR_GIF_URL_HERE" width="600" alt="coding gif" />
+  <img src="<img width="750" height="422" alt="download" src="https://github.com/user-attachments/assets/0a64c4e3-245f-44b5-aa51-3168e900ae4c" />
+" width="600" alt="coding gif" />
 </div>
 
 <br/>
