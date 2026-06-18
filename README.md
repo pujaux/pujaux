@@ -25,8 +25,7 @@ puja = {
           "degree"  : "B.Tech CS (AI/ML) @ VIT Bhopal  |  2023 – 2027",
           "building": ["Production ML Systems", "Safety-Aware Routing", "IoT Analytics"],
     "obsessed_with" : ["Deep Learning", "Graph Algorithms", "Probabilistic Models"],
-       "currently"  : "Amazon ML Summer School 2026 Applicant 🚀",
-         "reach_me" : "pranibhuyan@gmail.com"
+       "reach_me" : "pranibhuyan@gmail.com"
 }
 ```
 
