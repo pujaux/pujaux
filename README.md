@@ -158,10 +158,6 @@ MLOps                     ██████░░░░░░░░  48%
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE82EE,50:C71585,100:EE82EE&height=60&section=header" />
-<!-- ─────────────────────────────────────────────────────────────────── -->
-<!--  🔁 REPLACE this second GIF — try "matrix rain gif" or             -->
-<!--     "neural network animation gif" or "data science aesthetic gif"  -->
-<!-- ─────────────────────────────────────────────────────────────────── -->
 
 <img width="1400" height="788" alt="download (1)" src="https://github.com/user-attachments/assets/b85cf998-b4f4-4cc9-80f3-43e469876477" />
 
