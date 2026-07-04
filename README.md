@@ -41,7 +41,7 @@ puja = {
 
 **Backend & Cloud**
 
-![Skills](https://skillicons.dev/icons?i=flask,aws,firebase,docker,postgres,mongodb&theme=dark)
+![Skills](https://skillicons.dev/icons?i=flask,aws,firebase,postgres,mongodb&theme=dark)
 
 **Frontend & Tools**
 
