@@ -127,11 +127,11 @@ MLOps                     ██████░░░░░░░░  48%
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pujaux&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&include_all_commits=false&count_private=true&custom_title=2026%20GitHub%20Stats)
+![Stats](./profile/stats.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=pujaux&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&dates=e2e8f0&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujaux&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0)
+![Top Langs](./profile/top-langs.svg)
 
 </div>
 
