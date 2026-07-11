@@ -115,6 +115,7 @@ MLOps                     ██████░░░░░░░░  48%
 | | Achievement |
 |---|---|
 | 🧪 | AI/ML Intern — Edunet Foundation × Shell AICTE Skills4Future |
+| 💻 | Amazon ML Summer School'26 |
 | 🏆 | Oracle AI Vector Search Certified |
 | 📜 | Microsoft AI Skills Challenge |
 | 📊 | Introduction to Data Science — Infosys Springboard |
